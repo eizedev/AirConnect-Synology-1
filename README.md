@@ -1,6 +1,10 @@
 # AirConnect package for Synology NAS and Synology Router
 
-‼️ This repository is not maintained anymore.
+‼️ This repository is not maintained anymore. The new version is provided by [@eizedev](https://github.com/eizedev). You can find it [here](https://github.com/eizedev/AirConnect-Synology).
+
+<details><summary><strong>Show old Readme
+  
+</strong></summary>
 
 [![Latest release](https://img.shields.io/github/release/bandesz/AirConnect-Synology.svg)](https://github.com/bandesz/AirConnect-Synology/releases/latest)
 
@@ -91,3 +95,4 @@ If you want to see more logs then change the ```-d all=error``` parameter in scr
 ## License
 
 See https://github.com/philippe44/AirConnect/blob/master/LICENSE.
+</details>
